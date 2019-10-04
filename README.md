@@ -1,2 +1,2 @@
-# Oxygen_3D-visualization
-3D Visualization of  Oxygen in indian Ocean
+# 3D-visualization
+3D Visualization of Ocean model data of Indian Ocean.
